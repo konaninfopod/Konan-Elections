@@ -5,6 +5,5 @@ Fig 1
   
   
 Fig 2  
-![](https://user-images.githubusercontent.com/88083908/128598279-b7794efb-938b-4659-ab3f-3257bd864b73.png)
-
+![](https://user-images.githubusercontent.com/88083908/128598369-766208c7-db58-4f68-8584-e3afc23b6998.png)
 
