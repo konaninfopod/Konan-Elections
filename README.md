@@ -7,3 +7,6 @@ Fig 1
 Fig 2  
 ![](https://user-images.githubusercontent.com/88083908/128598369-766208c7-db58-4f68-8584-e3afc23b6998.png)
 
+Fig 3  
+![](https://user-images.githubusercontent.com/88083908/128701229-b7447313-f16e-4d9d-a9ab-33eef9cd536d.png)
+  
