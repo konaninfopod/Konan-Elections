@@ -4,6 +4,9 @@
 データ出典
 https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/19/2/5356.html
 
+定数
+18
+
 合計得票数
 24,418
 
@@ -16,6 +19,9 @@ https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/19/2/5356.html
 
 データ出典
 https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/11/2/5956.html
+
+定数
+18
 
 合計得票数
 20,249.999
@@ -31,6 +37,9 @@ https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/11/2/5956.html
 データ出典
 https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/5/2/5299.html
 
+定数
+20
+
 合計得票数
 23,295.999
 ※候補者の得票に属しない計算上切り捨てられた有効投票 0.001票
@@ -39,3 +48,14 @@ https://www.city.shiga-konan.lg.jp/shisei/senkyo/4/5/2/5299.html
 ・候補者の表記はウェブサイトと新聞による。正式な字体は調べていない。
 ・「新聞表記」は、中日新聞2009年10月27日朝刊19面による。
 
+
+■2005年市議選結果について
+
+データ出典
+2005年10月25日　中日新聞　朝刊　朝刊滋賀中日　18頁
+
+定数
+24
+
+注
+・湖南市が発表している正式な結果ではない。
