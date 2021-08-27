@@ -12,3 +12,7 @@ Fig 3
 Fig 4  
 ![](https://user-images.githubusercontent.com/88083908/130613039-505563ee-77dc-4a14-91c2-d7bf0df6b146.png)
   
+Fig 5  
+![](https://user-images.githubusercontent.com/88083908/131121566-ca20a7f5-4888-4060-979e-6f8ea3f3e9be.png)
+
+  
